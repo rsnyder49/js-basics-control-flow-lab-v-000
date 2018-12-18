@@ -1,6 +1,7 @@
 // Write your code in this file!
 function scuberGreetingForFeet(num) {
-  let greeting = ''
+  let greeting = '';
+  
   if (num <= 400) {
     greeting = "This one is on me!";
   }
