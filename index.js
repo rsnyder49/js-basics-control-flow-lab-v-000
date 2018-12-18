@@ -1,12 +1,12 @@
 // Write your code in this file!
 function scuberGreetingForFeet(num) {
   if (num <= 400) {
-    console.log("This one is on me!");
+    return "This one is on me!";
   }
   else if (num > 2000) {
-    console.log("I will gladly take your thirty bucks");
+    return "I will gladly take your thirty bucks";
   }
   else {
-    console.log("No can do");
+    return "No can do";
   }
 }
