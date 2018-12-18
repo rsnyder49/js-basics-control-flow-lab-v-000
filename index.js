@@ -4,6 +4,9 @@ function scuberGreetingForFeet(num) {
     console.log("This one is on me!");
   }
   else if num > 2000 {
-    console.log("")
+    console.log("I will gladly take your thirty bucks")
+  }
+  else {
+    
   }
 }
