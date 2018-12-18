@@ -3,5 +3,7 @@ function scuberGreetingForFeet(num) {
   if num === undefined {
     console.log("This one is on me!");
   }
-  else if num >
+  else if num > 2000 {
+    console.log("")
+  }
 }
